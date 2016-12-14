@@ -1,2 +1,0 @@
-# Clicker
-Random code
